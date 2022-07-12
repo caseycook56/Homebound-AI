@@ -19,6 +19,8 @@ My contruibution:
 
 - The AI enemy movement of the goblins. 
 - Enemies use a AI flocking techinque so they are always in sync with each other and dont move randomly
+- Dwarf movement around the player
+- When the dwarves are collected they flock around the player and form a vague line
 - Enemy collision detection as part of the flocking technquie
 
 
